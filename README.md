@@ -21,7 +21,7 @@
   <h2>Static View of Dashboard</h2>
   <div class="image-container">
 
-    
+    <img src="al-shifa.png" alt="Static View of Dashboard" width="400" height="400">
     
   </div>
 
