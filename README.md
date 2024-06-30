@@ -1,5 +1,5 @@
 
-  <h1><b>Power BI Analysis: AL-SHIFA HOSPITAL DOCTOR & PATIENTS DATASET</b></h1>
+  <h1><b><u>Power BI Analysis: AL-SHIFA HOSPITAL DOCTOR & PATIENTS DATASET</h1></u></b></h1>
 
   <h2>Overview</h2>
   <p>This repository contains a Power BI analysis of a dataset encompassing doctors' and patients' details within a healthcare system. The analysis aims to derive actionable insights to enhance operational efficiency.</p>
@@ -20,11 +20,7 @@
 
   <h2>Static View of Dashboard</h2>
   <div class="image-container">
-   ## Static View of Dashboard
-<img src="al-shifa.png" alt="Static View of Dashboard" width="800" height="400">
-[![Video Overview]("al-shifa.png")]("b1vi 2024-06-30 09-54-08.mp4")
 
- 
     
     
   </div>
