@@ -20,7 +20,11 @@
 
   <h2>Static View of Dashboard</h2>
   <div class="image-container">
-    <img src="al-shifa.png" alt="Static View of Dashboard">
+   ## Static View of Dashboard
+<img src="al-shifa.png" alt="Static View of Dashboard" width="800" height="400">
+
+     <source src="b1vi 2024-06-30 09-54-08.mp4" type="video/mp4"> 
+    
     
   </div>
 
